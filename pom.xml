@@ -35,7 +35,7 @@
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>3.3.1</version>
                 <configuration>
-                    <configLocation>checkstyle.xml</configLocation>
+                    <configLocation>${project.basedir}/checkstyle.xml</configLocation>
                     <failOnViolation>true</failOnViolation>
                     <consoleOutput>true</consoleOutput>
                 </configuration>
@@ -74,7 +74,7 @@
                         <configuration>
                             <rules>
                                 <rule>
-                                    <element>BRANCH</element>
+                                    <element>BUNDLE</element>
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
