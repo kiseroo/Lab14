@@ -1,7 +1,7 @@
 package lab14.sict.must.edu.mn;
 
 /**
- * Simple multiplication class.
+ * Simple multiplication class for Lab 14 for Lab 14.
  */
 public class Multiplication {
     /**
