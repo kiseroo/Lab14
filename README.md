@@ -2,8 +2,6 @@
 
 Энэхүү репозитори нь Maven-д суурилсан Java төсөл дээр Git workflow, хамтын ажиллагаа, болон GitHub Actions ашиглан CI/CD процессыг хэрхэн хэрэгжүүлэхийг харуулна.
 
-## CI Төлөв
-![CI Process](https://github.com/kiseroo/Lab14/actions/workflows/ci.yml/badge.svg)
 
 ## Төслийн Зорилго
 Git workflow-ийн ойлголтуудыг хэрэглэж, branch гаргахыг загварчлах. GitHub Actions ашиглан JUnit тест, Checkstyle-ийн кодын загварын шалгалт, болон JaCoCo-ийн 100% branch coverage-ийг автоматжуулсан Continuous Integration (CI) процесс хэрэгжүүлэх.
