@@ -46,6 +46,5 @@ Git workflow-ийн ойлголтуудыг хэрэглэж, branch гарга
 - **release/*** (release/v1.0.0): Хувилбар гаргах бэлтгэл салбар.
 - **hotfix/*** (hotfix/v1.0.1): Production дээрх алдааг яаралтай засах салбар.
 
-- https://github.com/kiseroo/Lab14/blob/28f0d4d720a84274e6b4d23fc88adbf67e538fd0/screenshot11.PNG
-- 
+![image alt](https://github.com/kiseroo/Lab14/blob/28f0d4d720a84274e6b4d23fc88adbf67e538fd0/screenshot11.PNG)
 
